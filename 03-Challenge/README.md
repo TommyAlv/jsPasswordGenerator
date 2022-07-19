@@ -11,4 +11,4 @@ For this challenge, I created a password generator that requires input from a us
 ## Screenshot
 ![screenshot](./assets/screenshots/PasswordGeneratorScreenshot.png)
 ## Link
-Link to the deployed website: [Here](https://tommyalv.github.io/Portfolio/)
+Link to the deployed website: [Here](https://tommyalv.github.io/jsPasswordGenerator/)
